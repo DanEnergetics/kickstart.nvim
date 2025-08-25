@@ -6,4 +6,7 @@ return {
   s('trig', {
     t 'hello, world!',
   }),
+  s('bla', {
+    t 'blia bla blub',
+  }),
 }
